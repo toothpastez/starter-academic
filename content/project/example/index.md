@@ -34,4 +34,4 @@ slides: example
 
 {{< vimeo 340474358 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx. 
+Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
