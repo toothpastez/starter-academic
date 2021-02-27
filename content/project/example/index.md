@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: TMCx
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -11,6 +11,8 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+
+{{< vimeo 340474358 >}}
 
 links:
 - icon: twitter
