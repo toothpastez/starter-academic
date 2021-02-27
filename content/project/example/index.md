@@ -12,7 +12,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-{{< vimeo 340474358 >}}
+
 
 links:
 - icon: twitter
@@ -31,5 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+
+{{< vimeo 340474358 >}}
 
 Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx. 
