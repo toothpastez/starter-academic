@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
   - name: Producer
-    tag: Producer  
+    tag: Producer
+  - name: Shooter
+    tag: Shooter
+  - name: Editor
+    tag: Editor
   - name: Other
     tag: Demo
 
