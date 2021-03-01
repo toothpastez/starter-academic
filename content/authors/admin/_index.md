@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Bobby Nash
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Freelance Video Professional
 
 # Organizations/Affiliations to show in About widget
-organizations:
+organizations: false
 - name: Stanford University
   url: https://www.stanford.edu/
 
