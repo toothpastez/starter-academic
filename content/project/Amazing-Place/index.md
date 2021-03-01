@@ -1,5 +1,5 @@
 ---
-title: Houston Community Land Trust
+title: Amazing Place 2
 summary: An example of using the in-built project page.
 tags:
 - Producer
