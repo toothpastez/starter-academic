@@ -43,7 +43,7 @@ experience:
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-      - title: Professor
+ - title: Professor
     company: University X
     company_url: ''
     location: California
