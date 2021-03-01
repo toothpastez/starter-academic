@@ -18,9 +18,7 @@ bio: Bobby Nash is a freelance video producer, shooter and editor based out of H
 
 # Interests to show in About widget
 Interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
 
 # Education to show in About widget
 education:
