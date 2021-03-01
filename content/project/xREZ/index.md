@@ -1,5 +1,5 @@
 ---
-title: Houston Community Land Trust
+title: xREZ Art and Science Lab
 summary: An example of using the in-built project page.
 tags:
 - Producer
