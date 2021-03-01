@@ -25,7 +25,9 @@ Interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Bachelor's in media arts
+  - course: Bachelor's in Radio Television and Film
+    institution: University of North Texas
+    year: 2016
   - course: Minor in Biology
     institution: University of North Texas
     year: 2016
