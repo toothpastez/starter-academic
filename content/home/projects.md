@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Producer
+    tag: Producer  
   - name: Other
     tag: Demo
 
