@@ -11,6 +11,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  preview_only: true
 
 
 
@@ -29,6 +30,6 @@ url_video: ""
 
 ---
 
-{{< vimeo 389811626 >}}
+{{< vimeo 293826523 >}}
 
 Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
