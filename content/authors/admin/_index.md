@@ -9,7 +9,7 @@ superuser: true
 role: Freelance Video Professional
 
 # Organizations/Affiliations to show in About widget
-organizations: false
+organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
 
