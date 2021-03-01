@@ -1,5 +1,5 @@
 ---
-title: Amazing Place 2
+title: Amazing Place
 summary: An example of using the in-built project page.
 tags:
 - Producer
