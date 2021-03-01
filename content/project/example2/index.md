@@ -1,5 +1,5 @@
 ---
-title: TMCx
+title: Houston Community Land Trust
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
