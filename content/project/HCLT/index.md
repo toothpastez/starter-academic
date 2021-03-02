@@ -6,6 +6,8 @@ tags:
 - Shooter
 - Editor
 date: "2016-04-27T00:00:00Z"
+weight: 2
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,4 +36,4 @@ url_video: ""
 
 {{< vimeo 389811626 >}}
 
-This is one of my favorite ttweak projects; our explainer and fundraising film for Houston Community Land Trust, a brilliant organization actively housing people in Houston through the time-tested community land trust model. I edited this piece, along with producing or shooting most of the broll.
+This film was for one of my favorite ttweak clients: Houston Community Land Trust. HCLT is a brilliant organization actively housing Houstonians using the time-tested community land trust model. I edited this piece, along with producing or shooting most of the broll.
