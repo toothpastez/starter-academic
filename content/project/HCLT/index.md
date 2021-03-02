@@ -1,6 +1,6 @@
 ---
 title: Houston Community Land Trust
-summary: An example of using the in-built project page.
+summary: A fundraising film for Houston's first Community Land Trust.
 tags:
 - Producer
 - Shooter
