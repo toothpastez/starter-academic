@@ -34,4 +34,4 @@ url_video: ""
 
 {{< vimeo 389811626 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+This is one of my favorite ttweak projects; our explainer and fundraising film for Houston Community Land Trust, a brilliant organization actively housing people in Houston through the time-tested community land trust model. I edited this piece, along with producing or shooting most of the broll.
