@@ -1,6 +1,6 @@
 ---
 title: Amazing Place
-summary: An example of using the in-built project page.
+summary: Web and luncheon videos for an outstanding dementia day program in Houston.
 tags:
 - editor
 date: "2016-04-27T00:00:00Z"
@@ -32,4 +32,4 @@ url_video: ""
 
 {{< vimeo 341869806 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+Amazing Place is a dementia day program serving the Houston area with daily social and health oriented activities for their participants, and by providing education and a support network to their community's caregivers. This is another ttweak client whom I am always thrilled to work for. I do some shooting for Amazing Place, and am mainly involved as editor.
