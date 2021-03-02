@@ -36,4 +36,4 @@ url_video: ""
 
 {{< vimeo 389811626 >}}
 
-This film was for one of my favorite ttweak clients: Houston Community Land Trust. HCLT is a brilliant organization actively housing Houstonians using the time-tested community land trust model. I edited this piece, along with producing or shooting most of the broll.
+This film was for one of my favorite ttweak clients: Houston Community Land Trust. HCLT is a brilliant organization actively housing Houstonians using the time-tested community land trust model. As part of a team of excellent filmmakers, I edited this piece, and producing or shooting most of the broll.
