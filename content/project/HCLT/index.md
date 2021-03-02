@@ -1,6 +1,6 @@
 ---
 title: Houston Community Land Trust
-summary: A fundraising film for Houston's first Community Land Trust.
+summary: A fundraising film for Houston's first community land trust.
 tags:
 - Producer
 - Shooter
