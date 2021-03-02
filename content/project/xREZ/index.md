@@ -1,11 +1,13 @@
 ---
 title: xREZ Art and Science Lab
-summary: An example of using the in-built project page.
+summary: Promotional video for the xREZ Art and Science Lab at UNT.
 tags:
 - Producer
 - Shooter
 - Editor
 date: "2016-04-27T00:00:00Z"
+
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,4 +36,4 @@ url_video: ""
 
 {{< vimeo 269787527 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+Back in undergrad, the xREZ lab profoundly shaped my approach to learning, problem solving and collaboration.
