@@ -4,7 +4,7 @@ summary: A rush edit for H-E-B's 2020 Holiday Diversity campaign.
 tags:
 - Editor
 date: "2016-04-27T00:00:00Z"
-draft: false
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,7 +14,7 @@ image:
   focal_point: Smart
   preview_only: true
 
-  draft: true
+ 
 
 
 
