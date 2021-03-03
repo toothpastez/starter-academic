@@ -50,12 +50,6 @@ experience:
         * West Houston Partnership
         * Houston Rodeo
 
-  - title: Video Producer
-    company: xREZ Art and Science Lab
-    location: Denton, TX
-    date_start: '2016-08-01'
-    date_end: '2016-12-01'
-    
   - title: Geoscience Video Intern
     company: UNAVCO
     location: Boulder, CO
