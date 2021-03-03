@@ -56,5 +56,11 @@ experience:
     date_start: '2016-08-01'
     date_end: '2016-12-01'
 
+  - title: Geoscience Video Intern
+    company: UNAVCO
+    location: Boulder, CO
+    date_start: '2016-05-01'
+    date_end: '2016-08-01'
+
 
 ---
