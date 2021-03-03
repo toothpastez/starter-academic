@@ -60,7 +60,7 @@ experience:
     company: UNAVCO
     location: Boulder, CO
     date_start: 'May 2016'
-    date_end: 'Sep 2016'
+    date_end: Sep 2016
    
   -title: Inpatient Programming Intern/ Video Intern
    company: Northwest Passage
