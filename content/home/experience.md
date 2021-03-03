@@ -55,7 +55,7 @@ experience:
     location: Denton, TX
     date_start: '2015-08-01'
     date_end: '2016-12-01'
-    description: |2-
+    description: 
     
   - title: Geoscience Video Intern
     company: UNAVCO
