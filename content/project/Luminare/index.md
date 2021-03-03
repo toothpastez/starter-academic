@@ -1,5 +1,5 @@
 ---
-title: Lionstone
+title: Luminare
 summary: An example of using the in-built project page.
 tags:
 - Editor
@@ -31,6 +31,10 @@ url_video: ""
 
 ---
 
-{{< vimeo 341871477 >}}
+{{< vimeo 519124720 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+Luminare has been a ttweak client since we met them at the Texas Medical Center startup accelerator. These examples are from a testimonial series we produced to support Luminare's promotion efforts. Before we'd even finished the audio mix for these videos, Luminare was already using the rough cuts to make sales.
+
+{{< vimeo 519127551 >}}
+
+{{< vimeo 519126974 >}}
