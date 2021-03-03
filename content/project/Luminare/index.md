@@ -1,6 +1,6 @@
 ---
 title: Luminare
-summary: An example of using the in-built project page.
+summary: Testimonial content for a cutting edge sepsis intervention technology.
 tags:
 - Editor
 date: "2016-04-27T00:00:00Z"
