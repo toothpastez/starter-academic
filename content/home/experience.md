@@ -51,9 +51,11 @@ experience:
         * West Houston Partnership
         * Houston Rodeo
 
-  - title: Intern
-    company: xREZ Art and Science Lab
-    location: Denton, Texas
-    date_start: '2016-01-01'
+  - title: Undergrad experience
+    company: 
+    location: 
+    date_start: '2012-08-01'
     date_start: '2016-12-01'
+    description:
+    fsdfa
 ---
