@@ -1,6 +1,6 @@
 ---
-title: xREZ Art and Science Lab
-summary: Promotional video for the xREZ Art and Science Lab at UNT.
+title: Undergrad work
+summary: The archives
 tags:
 - Producer
 - Shooter
@@ -38,3 +38,4 @@ url_video: ""
 {{< vimeo 269787527 >}}
 
 Back in undergrad, the xREZ lab profoundly shaped my approach to learning, problem solving and collaboration. This is one my favorite pieces I created as part of xREZ.
+
