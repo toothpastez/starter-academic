@@ -29,7 +29,7 @@ experience:
     date_start: '2017-04-01'
     date_end: ''
     description: |2-
-        ttweak LLC is a communication firm specializing in branding, web design, non fiction video, commercial, and communication consulting.
+        ttweak LLC is a communication firm specializing in branding, web design, non fiction video, commercial video, and communication consulting.
 
         I was hired in 2017 as an intern, and brought on subsequently in a permanent freelancing role where I served in a number of production and post production roles.
         
