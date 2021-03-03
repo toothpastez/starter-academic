@@ -53,7 +53,25 @@ experience:
   - title: Video Producer
     company: xREZ Art and Science Lab
     location: Denton, TX
-    date_start: '2015-08-01'
+    date_start: '2016-08-01'
     date_end: '2016-12-01'
+    
+  - title: Geoscience Video Intern
+    company: UNAVCO
+    location: Boulder, CO
+    date_start: 'May 2016'
+    date_end: 'Sep 2016'
+   
+  -title: Inpatient Programming Intern/ Video Intern
+   company: Northwest Passage
+   location: Webster, WI
+   date_start: 'May 2015'
+   date_end: 'Sep 2015'
+
+  -title: Promotions Intern
+   company: Telemundo Houston
+   Location: Houston, TX
+   date_start: 'May 2013'
+   date_end: 'May 2013'
 
 ---
