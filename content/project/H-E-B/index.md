@@ -14,6 +14,8 @@ image:
   focal_point: Smart
   preview_only: true
 
+  draft: true
+
 
 
 links:
