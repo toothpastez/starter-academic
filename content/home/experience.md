@@ -51,11 +51,28 @@ experience:
         * West Houston Partnership
         * Houston Rodeo
 
-  - title: Undergrad experience
-    company: 
-    location: 
-    date_start: '2012-08-01'
-    date_start: '2016-12-01'
+  - title: Video Producer
+    company: xREZ Art and Science Lab
+    location: Denton, TX
+    date_start: '2015-08-01'
+    date_end: '2016-12-01'
     description: |2-
     
+  - title: Geoscience Video Intern
+    company: UNAVCO
+    location: Boulder, CO
+    date_start: '2016-05-01'
+    date_end: '2016-08-01'
+
+  -title: Inpatient Programming Intern/ Video Intern
+   company: Northwest Passage
+   location: Webster, WI
+   date_start: '2015-05-01'
+   date_end: '2015-08-01'
+   
+  -title: Promotions Intern
+   company: Telemundo Houston
+   Location: Houston, TX
+   date_start: '2013-05-01'
+   date_end: '2013-08-01' 
 ---
