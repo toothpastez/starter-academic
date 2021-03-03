@@ -62,5 +62,11 @@ experience:
     date_start: '2016-05-01'
     date_end: '2016-08-01'
 
+  - title: Inpatient Programming/ Video Intern
+    company: Northwest Passage
+    location: Webster, WI
+    date_start: '2015-05-01'
+    date_end: '2015-08-01'  
+
 
 ---
