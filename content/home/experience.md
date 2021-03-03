@@ -68,5 +68,11 @@ experience:
     date_start: '2015-05-01'
     date_end: '2015-08-01'  
 
+  - title: Promotions Intern
+    company: Telemundo Houston
+    location: Houston, TX
+    date_start: '2013-05-01'
+    date_end: '2013-08-01'  
+
 
 ---
