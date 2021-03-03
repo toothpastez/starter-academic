@@ -29,11 +29,25 @@ experience:
     date_start: '2017-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        ttweak LLC is a communication firm specializing in branding, web design, non fiction video, commercial, and communication consulting.
+
+        I was hired in 2017 as an intern, and brought on subsequently in a permanent freelancing role where I served in a number of production and post production roles including cinematographer, editor, and producer.
         
-        * Analysing
-        * Modelling
-        * Deploying
+        Client work for:
+        
+        * Texas Medical Center
+        * H-E-B
+        * Baylor College of Medicine
+        * St. Johns School
+        * Houston Parks Board
+        * Houston Community Land Trust
+        * Mustang CAT
+        * Amazing Place
+        * Lionstone Investment
+        * Luminare
+        * Crown Castle
+        * West Houston Partnership
+        * Houston Rodeo
 
   - title: Intern
     company: xREZ Art and Science Lab
