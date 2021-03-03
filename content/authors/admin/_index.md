@@ -66,4 +66,4 @@ I am familiar with the fundamentals and language of cinematography, lighting, an
 I have extensive experience in self directed non fiction editing, as well as cutting from paper edits and producers notes. I am also experience in davinci resolve color-grading, and understand the fundamentals of audio finishing (along with having a rolodex of high quality audio finishing professionals). 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
