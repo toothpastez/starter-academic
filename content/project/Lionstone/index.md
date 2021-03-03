@@ -1,6 +1,6 @@
 ---
 title: Lionstone
-summary: An example of using the in-built project page.
+summary: An event recap video for Lionstone Investments.
 tags:
 - Editor
 date: "2016-04-27T00:00:00Z"
@@ -33,4 +33,4 @@ url_video: ""
 
 {{< vimeo 341871477 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+This is a quick edit for one of ttweak's clients, Lionstone Investments. I had the task of cutting something engaging out of last year's investor roundtable footage.

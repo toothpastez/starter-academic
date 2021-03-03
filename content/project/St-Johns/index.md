@@ -1,6 +1,6 @@
 ---
 title: St. Johns
-summary: An example of using the in-built project page.
+summary: Fundraising, promotion, and storytelling for St. Johns School.
 tags:
 - Shooter
 - Editor

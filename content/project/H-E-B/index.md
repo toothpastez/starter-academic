@@ -1,6 +1,6 @@
 ---
 title: H-E-B Holiday Diversity Spot
-summary: An example of using the in-built project page.
+summary: A rush edit for H-E-B's 2020 Holiday Diversity campaign.
 tags:
 - Editor
 date: "2016-04-27T00:00:00Z"
@@ -33,4 +33,4 @@ url_video: ""
 
 {{< vimeo 518857560 >}}
 
-Every year, the Texas Medical Center hosts two cohorts of med-tech start-ups within it's accelerator program TMCx...
+This was an unscripted, quick turnaround TV spot for H-E-B at the end of 2020, produced and directed by ttweak LLC. Roles included audio and editing.
