@@ -1,5 +1,5 @@
 ---
-title: Lionstone
+title: H-E-B Holiday Diversity Spot
 summary: An example of using the in-built project page.
 tags:
 - Editor
