@@ -31,7 +31,7 @@ experience:
     description: |2-
         ttweak LLC is a communication firm specializing in branding, web design, non fiction video, commercial, and communication consulting.
 
-        I was hired in 2017 as an intern, and brought on subsequently in a permanent freelancing role where I served in a number of production and post production roles including cinematographer, editor, and producer.
+        I was hired in 2017 as an intern, and brought on subsequently in a permanent freelancing role where I served in a number of production and post production roles.
         
         Client work for:
         
