@@ -24,7 +24,6 @@ date_format: Jan 2006
 experience:
   - title: Producer/ Shooter/ Editor
     company: ttweak LLC
-    company_url: ''
     location: Houston, TX
     date_start: '2017-04-01'
     date_end: ''
