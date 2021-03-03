@@ -16,7 +16,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 
 
 
@@ -37,4 +37,4 @@ url_video: ""
 
 {{< vimeo 269787527 >}}
 
-Back in undergrad, the xREZ lab profoundly shaped my approach to learning, problem solving and collaboration.
+Back in undergrad, the xREZ lab profoundly shaped my approach to learning, problem solving and collaboration. This is one my favorite pieces I created as part of xREZ.

@@ -1,6 +1,6 @@
 ---
 title: Amazing Place
-summary: Web and luncheon videos for an outstanding dementia day program in Houston.
+summary: Web and luncheon video for an outstanding dementia day program in Houston.
 tags:
 - editor
 date: "2016-04-27T00:00:00Z"
@@ -32,4 +32,4 @@ url_video: ""
 
 {{< vimeo 341869806 >}}
 
-Amazing Place is a dementia day program serving the Houston area with daily social and health oriented activities for their participants, and by providing education and a support network to their community's caregivers. This is another ttweak client whom I am always thrilled to work for. I do some shooting for Amazing Place, and am mainly involved as editor.
+Amazing Place is another excellent ttwweak client, providing the Houstonians affected by dementia with innovative patient day programming, and involved support for caretakers. The above piece is a comissioned peice designed to update the community on the next year's programming. My role in this project was as second camera and editor.
