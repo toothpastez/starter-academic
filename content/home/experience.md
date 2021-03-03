@@ -41,10 +41,12 @@ experience:
         * St. Johns School
         * Houston Parks Board
         * Houston Community Land Trust
+        * Jan and Dan Duncan Neurological Research Institute
         * Mustang CAT
         * Amazing Place
         * Lionstone Investment
         * Luminare
+        * Houston Methodist
         * Crown Castle
         * West Houston Partnership
         * Houston Rodeo
