@@ -4,7 +4,7 @@ summary: An energetic recruitment piece for the TMC Biodesign Program.
 tags:
 - Editor
 date: "2016-04-27T00:00:00Z"
-draft: true
+draft: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
