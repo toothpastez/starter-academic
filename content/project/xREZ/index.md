@@ -16,7 +16,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 
 
 
