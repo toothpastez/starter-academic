@@ -1,5 +1,5 @@
 ---
-title: TMC Biodesign recruitment video
+title: TMC Biodesign
 summary: An energetic recruitment piece for the TMC Biodesign Program.
 tags:
 - Editor
