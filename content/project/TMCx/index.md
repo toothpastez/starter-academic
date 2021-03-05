@@ -6,7 +6,7 @@ tags:
 - Shooter
 - Editor
 date: "2016-04-27T00:00:00Z"
-weight: 
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

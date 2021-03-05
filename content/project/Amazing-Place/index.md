@@ -4,6 +4,7 @@ summary: Web and luncheon video for an outstanding dementia day program in Houst
 tags:
 - editor
 date: "2016-04-27T00:00:00Z"
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
