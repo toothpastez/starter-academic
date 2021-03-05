@@ -38,9 +38,6 @@ url_video: ""
 {{< vimeo 269787527 >}}
 <br>
 <br>
-Back in undergrad, the xREZ lab profoundly shaped my approach to learning, problem solving and collaboration. This is one my favorite pieces I created as part of xREZ.
-<br>
-<br>
 {{< vimeo 152918744 >}}
 <br>
 <br>
