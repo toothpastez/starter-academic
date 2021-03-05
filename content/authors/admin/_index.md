@@ -57,12 +57,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a freelance producer, shooter and editor from Houston, Texas. I have been working in Houston since 2017, primarily with ttweak LLC, where I specialize in non scripted, docu style short films. 
-
-My interests lie in non fiction storytelling, and my experience stems from the field of documentary film production. I am a ten year user of the Adobe Creative Suite, have an intimate familiarity with the Canon C-series, am familiar with Sony and Blackmagic cinema cameras. and am used to tailoring production and post production workflows to accomodate project-needs-based codec and color profile choices. 
-
-I am familiar with the fundamentals and language of cinematography, lighting, and location sound production, as well as gear such as teleprompters, eye-directs, jib, slider, rail-and-dolly, etc.
-
-I have extensive experience in self directed non fiction editing, as well as cutting from paper edits and producers notes. I am also experience in davinci resolve color-grading, and understand the fundamentals of audio finishing (along with having a rolodex of high quality audio finishing professionals). 
+I am a freelance producer, shooter and editor from Houston, Texas. I have been working in Houston since 2017, primarily with ttweak LLC, where I specialize in unscripted, docu style video production.
 
 
