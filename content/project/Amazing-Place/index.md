@@ -31,5 +31,6 @@ url_video: ""
 ---
 
 {{< vimeo 341869806 >}}
-
+<br>
+<br>
 Amazing Place is another excellent ttwweak client, providing the Houstonians affected by dementia with innovative patient day programming, and involved support for caretakers. The above piece is a comissioned peice designed to update the community on the next year's programming. My role in this project was as second camera and editor.

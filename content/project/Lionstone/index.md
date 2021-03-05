@@ -32,5 +32,6 @@ url_video: ""
 ---
 
 {{< vimeo 341871477 >}}
-
+<br>
+<br>
 This is a quick edit for one of ttweak's clients, Lionstone Investments. I had the task of cutting something engaging out of last year's investor roundtable footage.

@@ -32,15 +32,16 @@ url_video: ""
 ---
 
 {{< vimeo 519124720 >}}
-
-
-
+<br>
+<br>
 Luminare has been a ttweak client since we met them at the Texas Medical Center startup accelerator. These examples are from a testimonial series we produced to support Luminare's promotion efforts. Before we'd even finished the audio mix for these videos, Luminare was already using the rough cuts to make sales.
 
 My role in this project was second camera and editor.
-
+<br>
+<br>
 {{< vimeo 519127551 >}}
-
-
-
+<br>
+<br>
 {{< vimeo 519126974 >}}
+<br>
+<br>
