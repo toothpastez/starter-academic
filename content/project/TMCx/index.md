@@ -6,7 +6,7 @@ tags:
 - Shooter
 - Editor
 date: "2016-04-27T00:00:00Z"
-weight: 1
+weight: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,10 +34,10 @@ url_video: ""
 ---
 
 {{< vimeo 293826523 >}}
+<br>
+This was my biggest responsibility at ttweak LLC: managing post production on the biannual video package for the Texas Medical Center startup accelerator, TMCx. 
 
-Every six months, ttweak LLC produces a 20+ video media package for the Texas Medical Center's startup accelerator, TMCx. 
-
-For each company in the biannual med device and digital technology cohort between 2017 and 2020, ttweak produced 1 to 2 introductory videos, and for each cohorts' live demo day, we rush edited a 5-7 minute sizzle video to ramp people up for the company presentations. From co shooting broll and interviews, to ingest, to prepping and managing teams of editors, to collaborating with dozens of startup entrepreneurs on their company messages, to facilitating coordination between finishing professionals and live event coordinators -along with editing or overseeing 15-25 overlaping edits per package- I was the point person for the entire post production process for the TMCx video package. To date, I have had a direct role in producing video content for 100+ companies at the TMC innovation institute.
+Twice a year, ttweak would be hired to produced a 20-25 video media package for TMCx's Demo Day event, which included a kick-off video, and an intro video for each presenting company. My responsibilities for this project were to edit the sizzle, and to either edit, or post-produce the walk-on video for up to 24 companies in each TMCx cohort. This included rush edits, giving feedback to multiple remote editors, communicating with TMC staff and startup CEOs on video content and messaging, managing my own editing workload, and then finally coordinating uniform graphics, managing the finishing workflow, and proofing everything on-site with the event staff.
 
 
 {{< vimeo 519668786 >}}
