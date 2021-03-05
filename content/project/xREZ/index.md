@@ -2,9 +2,7 @@
 title: Undergrad work
 summary: The archives
 tags:
-- Producer
-- Shooter
-- Editor
+
 date: "2016-04-27T00:00:00Z"
 
 draft: False
