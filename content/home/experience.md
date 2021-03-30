@@ -37,13 +37,13 @@ experience:
         * Texas Medical Center
         * H-E-B
         * Baylor College of Medicine
-        * St. Johns School
+        * St. John's School
         * Houston Parks Board
         * Houston Community Land Trust
         * Jan and Dan Duncan Neurological Research Institute
         * Mustang CAT
         * Amazing Place
-        * Lionstone Investment
+        * Lionstone Investments
         * Luminare
         * Houston Methodist
         * Crown Castle
