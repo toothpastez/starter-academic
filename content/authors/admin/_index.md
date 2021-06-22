@@ -57,5 +57,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a freelance producer, shooter and editor from Houston, Texas. I have been working in Houston since 2017, primarily in the corporate/ non profit, medical, and indipendant documentary spaces. 
+I am a freelance producer, shooter and editor from Houston, Texas. I have been working in Houston since 2017, primarily in the corporate/ non profit, medical, and independent documentary spaces. 
 
